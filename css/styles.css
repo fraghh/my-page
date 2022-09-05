@@ -1,0 +1,89 @@
+body {
+  margin: 0;
+  text-align: center;
+  padding-top: 200px;
+  background-color: #D2E69C;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 406px;
+  left: 462px
+}
+
+.top-cloud {
+  position: absolute;
+  bottom: 601px;
+  right: 473px;
+}
+
+.top-container {
+  position: relative;
+  padding-bottom: 50px;
+}
+
+.middle-container {
+  font-family: 'Orbitron', sans-serif;
+  color: #4B778D;
+}
+
+.h1 {
+  font-family: 'Reenie Beanie', cursive;
+  font-size: 90px;
+  margin: 50px auto 0 auto;
+  color: #4B778D;
+  line-height: 2;
+}
+
+.p1 {
+  font-family: 'Orbitron', sans-serif;
+  margin: 0 auto 0 auto;
+  color: #4B778D;
+}
+
+.javascript {
+  position: absolute;
+  display: inline-block;
+  width: 60px;
+  left: 442px;
+  bottom: 445px;
+}
+
+.node {
+  background-color: #D2E69C;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+
+}
+
+.js {
+    background-color: #D2E69C;
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.skill_desc{
+  clear: left;
+}
+
+h2 {
+  font-size: 40px;
+  font-weight: normal;
+}
+
+h3 {
+  color: #4B778D;
+}
+
+a {
+  color: #4B778D;
+}
